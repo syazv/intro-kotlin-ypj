@@ -1,7 +1,6 @@
 fun main() {
 
-    // Control flow in Kotlin
-
+// Control flow in Kotlin
 var myAge = 16
 
 if (myAge < 18){
